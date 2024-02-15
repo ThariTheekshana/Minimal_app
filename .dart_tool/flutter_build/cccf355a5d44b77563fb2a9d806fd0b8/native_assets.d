@@ -1,0 +1,1 @@
+ /Users/tharindutheekshana/Documents/GitHub/Minimal_app/.dart_tool/flutter_build/cccf355a5d44b77563fb2a9d806fd0b8/native_assets.yaml: 
