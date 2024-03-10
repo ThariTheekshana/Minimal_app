@@ -18,8 +18,7 @@ class MyListTile extends StatelessWidget {
           title: Text(title),
           subtitle: Text(
             subTitle,
-            style:
-                TextStyle(color: Theme.of(context).colorScheme.inversePrimary),
+            style: TextStyle(color: Theme.of(context).colorScheme.inversePrimary),
           ),
         ),
       ),

@@ -35,6 +35,6 @@ class FirestoreDatabase {
         .orderBy('Timestamp', descending: true)
         .snapshots();
 
-    return postsStream;
+        return postsStream;
   }
 }
